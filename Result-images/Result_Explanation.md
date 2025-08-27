@@ -10,7 +10,7 @@ The raw input image is a dermoscopic or photographic skin image containing one o
 In this example, the mole of interest appears near the center of the image.  
 This serves as the baseline input for the segmentation pipeline.
 
-![Original Image](Original-img.png)
+![Original Image](original-img.png)
 
 ---
 
