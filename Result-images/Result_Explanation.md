@@ -6,9 +6,12 @@ The workflow progressively transforms the raw skin image into a clean and interp
 ---
 
 ## 1. Original Image
-The raw input image is a dermoscopic or photographic skin image containing one or more moles.  
-In this example, the mole of interest appears near the center of the image.  
-This serves as the baseline input for the segmentation pipeline.
+Out of all the sample images available in the dataset (`mole_images/`),  
+the file **`medium_risk_16.jpg`** was selected for demonstration in this run.  
+
+This image is a dermoscopic/photographic skin image containing multiple moles.  
+The mole of interest appears near the center of the image and serves as the baseline input  
+for the segmentation pipeline.
 
 ![Original Image](original-img.png)
 
