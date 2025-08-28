@@ -17,7 +17,7 @@ for the segmentation pipeline.
 
 ---
 
-## 2. Quantized Image (K-Means Clustering)
+## 2. Quantized Image (with K-Means Clustering)
 The original image is processed using **K-Means clustering** for color quantization.  
 The number of clusters is set to three, simplifying the image into three dominant colors:
 - one representing the skin region,  
